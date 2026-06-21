@@ -59,3 +59,79 @@ Velamala Likhitha
 ## Internship
 
 Project developed as part of the DecodeLabs Java Internship Program.
+
+=========================================================================================================
+
+# Student Grade Calculator 🎓
+
+## Project Overview
+
+Student Grade Calculator is a Java console-based application that calculates a student's total marks, percentage, and grade based on marks entered for multiple subjects.
+
+## Features
+
+* Accepts student name as input
+* Accepts marks for multiple subjects
+* Calculates total marks
+* Calculates percentage
+* Assigns grades based on percentage
+* Displays pass/fail status
+* User-friendly console interface
+
+## Technologies Used
+
+* Java
+* Scanner Class
+* Loops (for loop)
+* Conditional Statements (if-else)
+* Variables and Data Types
+
+## How It Works
+
+1. Enter the student's name.
+2. Enter the number of subjects.
+3. Enter marks for each subject.
+4. The program calculates:
+
+   * Total Marks
+   * Percentage
+   * Grade
+   * Result (Pass/Fail)
+5. Displays the final report.
+
+## Grade Criteria
+
+| Percentage   | Grade |
+| ------------ | ----- |
+| 90 and above | A+    |
+| 80 - 89      | A     |
+| 70 - 79      | B+    |
+| 60 - 69      | B     |
+| 50 - 59      | C     |
+| 40 - 49      | D     |
+| Below 40     | F     |
+
+## Sample Output
+
+Student Name: Likhitha
+
+Number of Subjects: 5
+
+Marks: 85, 90, 78, 88, 92
+
+Total Marks: 433
+
+Percentage: 86.60%
+
+Grade: A
+
+Result: PASS
+
+## Learning Outcomes
+
+* Understanding user input in Java
+* Working with loops and conditions
+* Performing calculations using variables
+* Building real-world Java console applications
+
+
